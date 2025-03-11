@@ -77,20 +77,24 @@ Objetivo: Fornecer estratégias para melhorar o tempo de envio e reduzir custos 
 # Exemplos de insights
 
 1 - Otimizar Armazéns e Estoque
-✅ Armazéns regionais: Ter estoques distribuídos nos países de maior demanda (Canadá, França e Japão) reduz o tempo de envio.
-✅ Previsão de demanda: Usar dados históricos para estocar os produtos certos nas regiões certas, evitando atrasos.
+
+- Armazéns regionais: Ter estoques distribuídos nos países de maior demanda (Canadá, França e Japão) reduz o tempo de envio.
+- Previsão de demanda: Usar dados históricos para estocar os produtos certos nas regiões certas, evitando atrasos.
 
 2 - Escolher Transportadoras Mais Eficientes
-✅ Comparação de custos e prazos: Avaliar diferentes transportadoras para escolher as mais rápidas e econômicas.
-✅ Frete combinado: Agrupar pedidos próximos para reduzir custos de envio.
+
+- Comparação de custos e prazos: Avaliar diferentes transportadoras para escolher as mais rápidas e econômicas.
+- Frete combinado: Agrupar pedidos próximos para reduzir custos de envio.
 
 3 - Melhorar Processos Internos
-✅ Automação de pedidos: Sistemas automatizados aceleram o processamento e reduzem erros.
-✅ Redução de manuseio: Minimizar etapas no armazém para agilizar o envio.
+
+- Automação de pedidos: Sistemas automatizados aceleram o processamento e reduzem erros.
+- Redução de manuseio: Minimizar etapas no armazém para agilizar o envio.
 
 4 - Oferecer Opções de Frete Estratégicas
-✅ Envios expressos pagos: Clientes que precisam do produto rápido podem pagar por entregas premium.
-✅ Frete grátis em pedidos grandes: Incentiva compras maiores e otimiza custos por unidade.
+
+- Envios expressos pagos: Clientes que precisam do produto rápido podem pagar por entregas premium.
+- Frete grátis em pedidos grandes: Incentiva compras maiores e otimiza custos por unidade.
 
 
 
